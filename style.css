@@ -1,0 +1,28 @@
+.mango-color{
+    color: crimson;
+    font-size: 50px;
+}
+h1{
+    font-size: 50px;
+}
+.display-flex{
+    display:flex;
+}
+.display-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-right: 5%;
+}
+.display-width img{
+    width: 100%;
+    padding-bottom: 3%;
+}
+.oder-button{
+    text-decoration: none;
+    background-color: cyan;
+    background-image: linear-gradient(skyblue,tomato);
+    border-radius: 5%;
+    padding: 15px 50px
+
+}
